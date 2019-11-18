@@ -1,4 +1,5 @@
 #图形操作,
+from tkinter import *
 class Array():
     def __init__(self):
         self.list01 =[[1,2,3],[4,5,6],[7,8,9]]
@@ -37,9 +38,22 @@ class Array():
         for i in range(3):
             self.right_rotate()
         
+class Canvas_Demo(Tk):
+    def __init__(self):
+        super().__init__()
+        self.title ='canvas绘图'
+        self.geometry('800x600+300+100')
+        #准备画板
+        cv = Canvas(self,bg='lightGray',width=700,height =500)
+        cv.place(x=50,y=50)
+        #画一根线
+        cv.create_line(70,70,70,400,fill='red',dash=(3,3))
+
 if __name__ == '__main__':
-    this_array = Array()
-    this_array.right_rotate()
-    this_array.print()
-    this_array.left_rotate()
-    this_array.print()
+    # this_array = Array()
+    # this_array.right_rotate()
+    # this_array.print()
+    # this_array.left_rotate()
+    # this_array.print()
+    window = Canvas_Demo()
+    window.mainloop()
