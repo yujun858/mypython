@@ -1,0 +1,10 @@
+2019-11-22 11:32:04,373 - DEBUG - debug message
+2019-11-22 11:32:04,373 - INFO - info message
+2019-11-22 11:32:04,374 - WARNING - warning message
+2019-11-22 11:32:04,374 - ERROR - Error message
+2019-11-22 11:32:04,376 - CRITICAL - Critical message
+2019-11-22 11:32:57,986 - DEBUG - debug message
+2019-11-22 11:32:57,986 - INFO - info message
+2019-11-22 11:32:57,986 - WARNING - warning message
+2019-11-22 11:32:57,986 - ERROR - Error message
+2019-11-22 11:32:57,986 - CRITICAL - Critical message
