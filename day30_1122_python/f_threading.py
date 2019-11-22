@@ -11,3 +11,4 @@ if __name__ == "__main__":
     p =  Process(target=work)
     p.start()
     print('多进程')
+    #多进程运行程序比多线程运行程序慢
