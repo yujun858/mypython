@@ -81,7 +81,7 @@ Is there nothing that you want to say?       Look daddy we got the same hair.
 I know thar you are hurting too              Daddy it's my birthday.
 But I need you I do                          All I want to say               
 Daddy if you are out there
-Dady all i wanna say
+All i wanna to say
 
 you are so far away.                         If you are so far away
 oh and you are so far away.                  oh and you are so far away
