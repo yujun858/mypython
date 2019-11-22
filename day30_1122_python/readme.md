@@ -74,3 +74,21 @@ I work for a state-owned company[Chinese,foreigh,insurance]company.
 - obj.__dict__
 - class_name.__dict__ 类所有成员
 anaconda3/env/oop  虚拟环境  
+Daddy are you out there?                     Daddy are you out there?
+Daddy won't you come and play?               Daddy why'd you run away?
+Daddy do you not care?                       Daddy are you ok?
+Is there nothing that you want to say?       Look daddy we got the same hair.
+I know thar you are hurting too              Daddy it's my birthday.
+But I need you I do                          All I want to say               
+Daddy if you are out there
+Dady all i wanna say
+
+you are so far away.                         If you are so far away
+oh and you are so far away.                  oh and you are so far away
+But that's ok,this ok, this ok.              But that's ok,it's ok,it'sok
+
+you are so far away
+
+Won't you come home won't you stay?         Wonit you come home won't you stay?
+please stay,please stay                     One day,just one day.
+
