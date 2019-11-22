@@ -56,4 +56,21 @@ I work for a state-owned company[Chinese,foreigh,insurance]company.
 # 多线程
 - 在Cpython解释器中，同一个进程下开启的多线程，同一时刻只能有一个线程执行，无法利用多核优势。
 # OOP基础知识
-- 
+- oop 思想：
+    - 过程思想：
+    - 面向对象：不是由任务构成的；
+    - 学生
+    - 老师
+    - 课堂：
+    - 网络：
+    - 对象：属性：方法：
+- 类和对象概念：
+    - 类
+    - 对象
+- conda create -n oop python=3.7
+- conda env list
+- 切换环境：　
+# 对象成员对象检查
+- obj.__dict__
+- class_name.__dict__ 类所有成员
+anaconda3/env/oop  虚拟环境  

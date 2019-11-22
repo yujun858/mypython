@@ -5,3 +5,5 @@ class Student():
     pass
 
 mingyue = Student()
+print(mingyue.__dict__)
+print(Student.__dict__)
