@@ -1,2 +1,0 @@
-def inInit():
-    print('inInit')
