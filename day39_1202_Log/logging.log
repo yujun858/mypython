@@ -1,0 +1,10 @@
+DEBUG:root:This is a debug log
+INFO:root:Info log
+ERROR:root: Thi is a error log
+DEBUG:root:This is a debug log.
+CRITICAL:root:This is a critical log
+2019-12-02 08:49:28,418------DEBUG------This is a debug log
+2019-12-02 08:49:28,418------INFO------Info log
+2019-12-02 08:49:28,419------ERROR------ Thi is a error log
+2019-12-02 08:49:28,419------DEBUG------This is a debug log.
+2019-12-02 08:49:28,419------CRITICAL------This is a critical log
