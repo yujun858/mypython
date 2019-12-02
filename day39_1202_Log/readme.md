@@ -13,7 +13,7 @@
     - 级别可自己定义：
     - 单例模式：
     - logging封装了其他组件；logging四大组件直接定制
-- logging模块级别日志
+- logging模块级别日志IT
     - logging.debug(msg,*args,**kwargs)
     - logging.info()
     - logging.waringin()
@@ -24,7 +24,7 @@
 - logging.basicConfig(**kwargs) 对root logger 进行一次性配置。
     - 不配置logger 使用默认值
         - 输出 sys.stderr
-        - 级别： WARNING
+        - 级别： WARNINGIT
         - 格式： level:log_name:content
 - logging模块处理流程 
 - 四大组件
@@ -55,12 +55,7 @@
             - logging.handlers.TimedRotatingFileHandler
             - logging.handlers.HTTPHandler
             - logging.handlers.SMTPHandler
-            - logging.NullHandler
-    - Format类
-        - fmt
-        - datefmt
-        - style
-    - Filter类：
+            - logging.NullHandlerIT
         - 可以被Handler Logger使用。
 
 
@@ -104,19 +99,14 @@
         - I would like you to meet a freind of mine.
         - Let me introduce you to my frind Li Ning.
         - This is Li Ning, Li Ning,Chris.
-    - 问对方名字
-        - Excuse me, but I don't think I know your name.
-        - I am sorry, bu I don't believe I know your name.
-        - I'm so sorry.Could you tell me your name again?
+    - 问对方名字qiyee your name again?
         - nice to meet you 
         - pleased to meet you
     - 接下去问
         - So, have you lived here long?
         - Have you worked here long?
         - Do you live around here?
-        - Do you come here often?
-        - So , what do you do, if you don't mind me asking?
-        - So what exactly is it that you do ?
+        - Do you come here often?qiye do ?
         - So what do you do for a living ?
         - Can I ask you what you do ?
     - So, how did you end up in China? 为什么来中国
@@ -124,9 +114,20 @@
     - What places have you visited in China?
     - What is your favourite city in China?
     - What do you think of China/Chinese food?
-    ```
-    
+    介绍自己职业：
+    I am a software engineer.
+    I'm in 
+    I work for a ... company.
+    IT Finance State-owned company 国企 Chinese company, Foreign company, Insurance company.
 ```
+
+# 线程
+- 一个进程 多个线程。
+- 多个线程共享数据，上下文，共享互斥问题
+- 全局解释锁(GIL):
+
+# python多线程包 threading.
+
 
 
 
