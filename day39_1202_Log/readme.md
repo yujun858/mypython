@@ -127,6 +127,23 @@
 - 全局解释锁(GIL):
 
 # python多线程包 threading.
+- threading使用
+- 直接使用threading.Thread生成 Thread实例
+- t.start()
+- t.join() 等待多线程执行完成
+    - 守护线程 daemon 生命周期与主线程相同； 如果子线程设置为守护线程，子线程会在主线程结束时候自动退出；
+    - 守护线程不重要或者不允许离开主线程独立运行。
+    t1.daemon = True , t1.setDaemon(True)
+- 线程常用属性：
+    - threading.currentThread
+    - threading.enumerate
+    - threading.activateCount
+    - thr.setName
+    - thr.getName
+- 共享变量
+    - 当多个线程同时访问一个变量时；
+    
+
 
 
 
